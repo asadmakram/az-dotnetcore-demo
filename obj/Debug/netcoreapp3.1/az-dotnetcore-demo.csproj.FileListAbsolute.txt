@@ -13,6 +13,8 @@ D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp
 D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\az-dotnetcore-demo.csproj.CoreCompileInputs.cache
 D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\az-dotnetcore-demo.MvcApplicationPartsAssemblyInfo.cache
 D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\az-dotnetcore-demo.RazorTargetAssemblyInfo.cache
+D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\staticwebassets\az-dotnetcore-demo.StaticWebAssets.Manifest.cache
+D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\staticwebassets\az-dotnetcore-demo.StaticWebAssets.xml
 D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\az-dotnetcore-demo.dll
 D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\az-dotnetcore-demo.pdb
 D:\development\learning\azure\dotnetcore\az-dotnetcore-demo\obj\Debug\netcoreapp3.1\az-dotnetcore-demo.genruntimeconfig.cache

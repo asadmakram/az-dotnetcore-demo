@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+r+gHVL56XAkyzRG1nUk1kVQNDJb+rzx4tZagZNlWBag8oQADI5n9tWkeW9veIOiCEB6l/RV+WmGhfPyn/uWrg==",
+  "dgSpecHash": "+t259c1zpl37YLWujrlCoCSKn911EKluJyKXtCS0JNcvsHvjWW9oDhM+NgOQ9XuTmaDsoan7HBvfcw4HoCoLSA==",
   "success": true,
   "projectFilePath": "D:\\development\\learning\\azure\\dotnetcore\\az-dotnetcore-demo\\az-dotnetcore-demo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

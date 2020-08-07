@@ -20518,7 +20518,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": null,
+  "RootNamespace": "az_dotnetcore_demo",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
