@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\development\\learning\\azure\\dotnetcore\\az-dotnetcore-demo\\az-dotnetcore-demo.csproj": {}
+  },
+  "projects": {
+    "D:\\development\\learning\\azure\\dotnetcore\\az-dotnetcore-demo\\az-dotnetcore-demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\development\\learning\\azure\\dotnetcore\\az-dotnetcore-demo\\az-dotnetcore-demo.csproj",
+        "projectName": "az-dotnetcore-demo",
+        "projectPath": "D:\\development\\learning\\azure\\dotnetcore\\az-dotnetcore-demo\\az-dotnetcore-demo.csproj",
+        "packagesPath": "C:\\Users\\amakram\\.nuget\\packages\\",
+        "outputPath": "D:\\development\\learning\\azure\\dotnetcore\\az-dotnetcore-demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amakram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://f.feedz.io/kx/pulse/nuget/index.json": {},
+          "https://www.myget.org/F/kx/auth/84eb8e94-2338-496d-b4b5-ba417397c0d0/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
